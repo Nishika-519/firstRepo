@@ -1,1 +1,4 @@
 This is a new file in sub branch
+
+some changes have been made
+second time changes are made
